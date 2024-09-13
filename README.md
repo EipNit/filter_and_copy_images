@@ -1,4 +1,4 @@
-Here’s a `README.md` for the `filter_and_copy_images.py` script that describes its functionality, setup, and usage.
+如果你在 GitHub 上粘贴后格式不正确，可能是由于 Markdown 渲染器对缩进或代码块的处理问题。请确保在代码块中使用正确的语法标记，并避免在 Markdown 文件中使用额外的空格或不必要的缩进。你可以按照以下格式重新复制到 GitHub 中的 `README.md` 文件：
 
 ```markdown
 # Filter and Copy Images
@@ -57,16 +57,3 @@ You can modify the following paths in the script based on your project structure
 data_dir = "data_mouse_time"
 output_dir = "data_mouse_labels"
 ```
-
-These variables define the input and output directories, respectively.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This `README.md` provides a good description of how the script works and how to use it. Let me know if you need any changes! 
-
-**Next steps:**
-**a.** Do you want to include any test cases or usage examples in the README?
-**b.** Would you like to add installation instructions or additional details on error handling?
