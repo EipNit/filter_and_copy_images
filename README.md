@@ -1,6 +1,3 @@
-如果你在 GitHub 上粘贴后格式不正确，可能是由于 Markdown 渲染器对缩进或代码块的处理问题。请确保在代码块中使用正确的语法标记，并避免在 Markdown 文件中使用额外的空格或不必要的缩进。你可以按照以下格式重新复制到 GitHub 中的 `README.md` 文件：
-
-```markdown
 # Filter and Copy Images
 
 This script `filter_and_copy_images.py` filters images based on corresponding label files and copies them, along with the label files, into a new directory structure. The script assumes that images are in `.jpg` format and labels are in `.txt` format. 
